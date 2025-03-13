@@ -17,6 +17,14 @@ MathJax = {
   width: 100%;
 }
 </style>
+<style>
+.MathJax_Display {
+  text-align: center !important;
+  margin: 1em 0 !important;
+}
+</style>
+
+
 
 # Доверительный интервал   
 ## Попадание реализации модели в коридор симуляционных значений с доверительным интервалом   
