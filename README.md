@@ -2,4 +2,4 @@
 
 Статья-разбор применения **обратного способа** теста на попадание реализации модели в коридор симуляционных значений с доверительным интервалом.
 
-[Ссылка на статью]([https://link-url-here.org](https://uralman.github.io/Confidence-interval/))
+[Ссылка на статью](https://uralman.github.io/Confidence-interval/)
